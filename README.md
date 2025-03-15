@@ -3,6 +3,8 @@
 ## Overview
 This project is an end-to-end data pipeline using Azure Data Lake Storage (ADLS), Azure Data Factory (ADF), Databricks, and Azure SQL DB to process order data from AWS S3.
 
+![Data Flow_Architecture](https://github.com/Lovepreet12a/adf-databricks-etl/blob/main/Data%20Flow%20Architecture.pnghttps://github.com/Lovepreet12a/adf-databricks-etl/blob/main/Data%20Flow%20Architecture.png)
+
 ![Data Pipeline Flow](https://github.com/Lovepreet12a/adf-databricks-etl/blob/main/pipeline_image.png)
 
 
