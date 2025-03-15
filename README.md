@@ -24,3 +24,5 @@ This project is an end-to-end data pipeline using Azure Data Lake Storage (ADLS)
 7. The final aggregated data is written to Azure SQL for Power BI visualization.
 
 
+## Contributing
+If you'd like to contribute, please fork the repository and submit a pull request.
